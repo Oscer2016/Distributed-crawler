@@ -19,7 +19,7 @@
 
 &emsp;&emsp;开发工具：Eclipse / PyCharm
 
-&emsp;&emsp;操作系统：Linux(Deepin 15.4)
+&emsp;&emsp;操作系统：Linux(Fedora 26)
 
 &emsp;&emsp;编程语言：Python 2.7
 
